@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
+## **Note:** *Modified as exercise in Carpentry Instructor Training hosted by NNLM March 2nd-5th, 2021*
+
+-------
+
 # The Carpentries Workshop Template
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and
